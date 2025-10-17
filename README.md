@@ -33,7 +33,7 @@ It uses **spaCy**, **Tesseract OCR**, **PyMuPDF**, **OpenCV**, and **Pillow** to
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/YOURNAME/privguard.git
+   git clone https://github.com/bencysandra2006/privguard.git
    cd privguard
    ```
 
